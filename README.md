@@ -1,2 +1,2 @@
 # Beetroot-Training
-This is the homework level 1 (2).
+This is file of the FrontEnd course from another school.
